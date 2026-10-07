@@ -1,0 +1,6 @@
+{
+  "name": "CivicConnect - Smart Citizen-Led City Management",
+  "description": "Comprehensive full-stack civic platform featuring animated landing page, role-based access control (Citizen, Municipality, Contractor), AI-driven issue classification powered by Google Gemini, interactive mapping, tender bidding, and real-time resolution pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
